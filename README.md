@@ -24,7 +24,7 @@ Looking forward to entering the Startup 🚀 Space.
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=xpembe&theme=tokyo-night&hide_border=true&hide_title=false&area=true&custom_title=Contribution%20Graph%20In%20All%20Repo)
 
 - 🌱 I’m currently learning Python & PostgreSQL.
-- 🧑🏻‍💻 I’m looking to collaborate on Web3 projects using Rust and Python.
+- 🧑🏻‍💻 I’m looking to collaborate on Web3 and AI projects using Rust and Python.
 - 💡 I'm always learning, innovating, creating, & improving.
 - 💬 Ask me about Technology and Mathematics.
 
@@ -34,11 +34,11 @@ Looking forward to entering the Startup 🚀 Space.
     <a href="https://www.python.org/" target="_blank">
         <img src="https://skillicons.dev/icons?i=python" alt="python"/>
     </a>
+    <a href="https://www.typescriptlang.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=typescript" alt="Dart"/>
+    </a>
     <a href="https://www.rust-lang.org/" target="_blank">
         <img src="https://skillicons.dev/icons?i=rust" alt="Rust"/>
-    </a>
-    <a href="https://dart.dev/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=dart" alt="Dart"/>
     </a>
 </p>
 
@@ -49,9 +49,6 @@ Looking forward to entering the Startup 🚀 Space.
     <a href="https://fastapi.tiangolo.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI"/>
     </a>
-    <a href="https://flutter.dev/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter"/>
-    </a>
     <a href="https://git-scm.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=git" alt="Git"/>
     </a>
@@ -61,8 +58,8 @@ Looking forward to entering the Startup 🚀 Space.
     <a href="https://www.linux.org/" target="_blank">
         <img src="https://skillicons.dev/icons?i=linux" alt="Linux"/>
     </a>
-        <a href="https://www.mongodb.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/>
+    <a href="https://nextjs.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"/>
     </a>
     <a href="https://www.postgresql.org/" target="_blank">
         <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL"/>
