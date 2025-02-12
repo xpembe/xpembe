@@ -37,22 +37,28 @@ Looking forward to entering the Startup 🚀 Space.
     <a href="https://www.python.org/" target="_blank">
         <img src="https://skillicons.dev/icons?i=python" alt="python"/>
     </a>
+    <a href="https://www.typescriptlang.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript"/>
+    </a>
 </p>
 
 ## Frameworks & Tools
 
 <p align="center">
-    <a href="https://actix.rs/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=actix" alt="Actix"/>
+    <a href="https://fastapi.tiangolo.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI"/>
     </a>
     <a href="https://code.visualstudio.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=vscode" alt="VScode"/>
     </a>
-    <a href="https://fastapi.tiangolo.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI"/>
+    <a href="https://www.postman.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=postman" alt="Postman"/>
     </a>
     <a href="https://www.postgresql.org/" target="_blank">
         <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL"/>
+    </a>
+    <a href="https://nextjs.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="Nextjs"/>
     </a>
 </p>
 
